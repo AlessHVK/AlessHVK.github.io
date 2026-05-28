@@ -1,0 +1,127 @@
+h1{
+  text-align:center;
+  font-style:italic;
+  
+}
+
+
+.container {
+  /* si tu enleve la ligne height, cela va matcher la hauteur de la page avec ce que tu as besoin */
+  height:1100px;
+  width:700px;
+  border: 2px solid black;
+  margin: 0 auto;
+
+
+
+}
+
+
+
+.entete {
+  height:150px;
+  width:700px;
+  border: 2px solid black;
+  margin: 0 auto;
+  text-align-last: center;
+}
+
+.entete img{
+  float: left;
+  
+}
+
+
+.double {
+  height:200px;
+  width:342px;
+  border: 2px solid red;
+  margin: 0 auto;
+  background-color: white;
+  display:inline-block;
+}
+
+.menu {
+  height:950px;
+  width:350px;
+  border: 2px solid black;
+  margin: 0 auto;
+}
+
+
+
+.mclaren {
+
+  color: #ffa30f;
+}
+
+.alpine {
+
+  color: #f79cf4
+  
+}
+
+.ferrari {
+
+
+  color: #c41104
+  
+}
+
+.redbulls {
+
+  color: #162e5c
+  
+}
+
+
+.mercedes {
+
+  color: #a0a1b8
+  
+}
+
+
+
+.haas {
+
+  color: #fbfcfa
+
+}
+
+.cadillac {
+
+  color: #030303
+  
+}
+
+
+.williams {
+
+  color: #2244c9
+  
+}
+
+
+.racingbulls {
+
+  color: #fbfcfa
+  
+}
+
+
+.astonmartin {
+
+  color: #559614
+  
+}
+
+
+.audi {
+
+  color: #a3a2a2
+  
+}
+
+
+  
